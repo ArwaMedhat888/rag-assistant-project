@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 .env
 chroma_db/
+backend/data/vector_store/
+data/documents/
